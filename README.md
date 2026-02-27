@@ -7,9 +7,11 @@
 4. [GITCLI](https://git-scm.com/book/en/v2/Getting-Started-The-Command-Line)
 
 
-Create New New Environment
----
+### Create New New Environment
 
+```bash
 conda create -p venv python==3.7 -y
+```
+
 
 ---
